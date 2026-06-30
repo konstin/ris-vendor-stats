@@ -8,4 +8,10 @@ Number of websites per vendor over time:
 
 ![Number of websites per vendor over time](vendors-over-time.png)
 
+Regenerate the plot:
+
+```console
+uv run --script plot.py
+```
+
 CC-BY konstin
