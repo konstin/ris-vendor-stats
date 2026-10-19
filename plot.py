@@ -5,6 +5,9 @@
 #   "matplotlib>=3.5.1",
 #   "pandas>=1.4.0",
 # ]
+#
+# [tool.uv]
+# exclude-newer = "7 days"
 # ///
 
 from __future__ import annotations
